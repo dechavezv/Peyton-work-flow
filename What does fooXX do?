@@ -1,0 +1,7 @@
+oo1(x): will ad 0.5 to any value assigned for X
+foo2 (x ,y): will print x and y only if the values we assign, follow this rule: x>y
+foo3(x, y, z): it will return one unique value for x if x > y and two equal values for y and z, if y>z.
+
+def foo4(x): will return a “1” for any number of “x”
+
+def foo5(x): multiplies every “x” value for “x -1”, exept when that value is 1, in that case print the same number “1”.
